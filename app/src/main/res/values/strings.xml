@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Different Layouts</string>
+    <string name="app_main_message">Menu</string>
+    <string name="app_some_message">Select a layout type to view an example.
+The onClick attribute of each button will call a function
+which executes setContentView to load the new layout</string>
+</resources>
