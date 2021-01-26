@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_weight=".7"
-            android:text="Load ConstraintLayout"
+            android:text="Calendar"
             android:textSize="20sp" />
 
         <Button
@@ -59,7 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_weight=".7"
-            android:text="Load TableLayout"
+            android:text="Currency Exchange"
             android:textSize="20sp" />
 
         <Button
